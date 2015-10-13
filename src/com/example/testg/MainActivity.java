@@ -14,6 +14,7 @@ public class MainActivity extends ActionBarActivity {
         setContentView(R.layout.activity_main);
         System.out.println("1111");
         System.out.println("222");
+        System.out.println("3333");
     }
 
 
