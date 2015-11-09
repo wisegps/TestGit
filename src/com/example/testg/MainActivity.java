@@ -24,6 +24,7 @@ public class MainActivity extends ActionBarActivity {
         getMenuInflater().inflate(R.menu.main, menu);
         System.out.println("222");
         System.out.println("221");
+        System.out.println("223");
         return true;
     }
 
